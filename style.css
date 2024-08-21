@@ -9,6 +9,7 @@ body{
     align-items: center;
     height: 120vh;
     margin-bottom: 40px;
+    background-color: aliceblue;
 }
 .container{
     margin:50px 0px 10px;
